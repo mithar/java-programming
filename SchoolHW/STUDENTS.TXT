@@ -1,0 +1,61 @@
+
+Name: lol
+ID: 1
+Major: comp sci
+Year: sophomore
+Name: lol
+ID: 1
+Major: comp sci
+Year: sophomore
+Name: lol
+ID: 1
+Major: comp sci
+Year: sophomore
+Name: lol
+ID: 1
+Major: comp sci
+Year: sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore
+lol
+1
+comp sci
+sophomore

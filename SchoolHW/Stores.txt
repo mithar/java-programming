@@ -1,0 +1,8 @@
+Store 1
+1458
+Store 2
+769
+Store 3
+1248
+Store 4
+500
